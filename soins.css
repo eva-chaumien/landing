@@ -1,0 +1,31 @@
+.content-img-soins {
+    width: 95%;
+    margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.content-button-soins {
+    text-align: center;
+	background-color: #ffd5ec;
+	border: none;
+	color: white;
+	font-family: 'Roboto Condensed', sans-serif;
+	padding: 10px 30px 10px 30px;
+	font-size: 20px;
+}
+
+.content-button-soins:hover {
+	background-color: #FFE6F6;
+}
+
+.text-20 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 25px;
+	color: #E8CEBB;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: bold;
+}

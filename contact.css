@@ -1,0 +1,64 @@
+
+.content-img-contact {
+    width: 40%;
+}
+
+.content-contact {
+    text-align: center;
+	font-size: 18px;
+}
+
+.content-text-important {
+	font-size:16px;
+}
+
+.content-text-no-important {
+	font-size:16px;
+}
+
+.contact-text {
+    color: #E8CEBB;
+}
+
+#map {
+    width: 80%;
+}
+
+#contact {
+    padding: 20px;
+}
+
+.input-contact {
+    padding: 8px;
+    margin-top: 10px;
+    width: 90%;
+}
+
+.input-spe {
+    border-left: white;
+    border-right: white;
+    border-top: white;
+    border-bottom-color: #E8CEBB; 
+}
+
+.input-msg {
+    border: 2px solid #E8CEBB;    
+}
+
+.contact-button {
+	background-color: #E8CEBB;
+	border: none;
+	color: white;
+	font-family: 'Roboto Condensed', sans-serif;
+	padding: 10px 30px 10px 30px;
+	font-size: 20px;
+}
+
+.contact-button:hover {
+    background-color: rgb(230, 217, 208)
+}
+
+.contact-container {
+    margin-left: 5%;
+    margin-right: 5%;
+}
